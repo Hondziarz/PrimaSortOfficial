@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/przycisk1" android:title="Zasady segregowania odpadów" app:showAsAction="ifRoom"></item>
+    <item android:id="@+id/przycisk2" android:title="GORĄCE PSZOKI W TWOJEJ OKOLICY !!!" app:showAsAction="ifRoom"></item>
+
+</menu>
