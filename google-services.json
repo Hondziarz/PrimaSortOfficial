@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597348051487",
+    "firebase_url": "https://primasortofficial.firebaseio.com",
+    "project_id": "primasortofficial",
+    "storage_bucket": "primasortofficial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597348051487:android:bab206733d8d10ba67432a",
+        "android_client_info": {
+          "package_name": "com.example.sort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597348051487-g9btcgfs7339d40pa4j1933b9fnfn3v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3u9Zsohkg1VcSYUhPdu-EHIOTatBMyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597348051487-g9btcgfs7339d40pa4j1933b9fnfn3v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

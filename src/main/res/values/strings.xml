@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">prima sort</string>
+
+    <string name="large_text">
+        "nie myj opakowań, słoików i innych odpadów\n\n"
+        "opróżniaj opakowania z resztek zawartości\n\n"
+        "odrywaj wieczka od pojemników\n\n"
+        "zgniataj puszki, butelki plastikowe i inne możliwe odpady\n\n"
+        "nie wrzucaj mięsa oraz innych odpadów pochodzenia zwierzęcego do BIO\n\n"
+        "odpady BIO to wyłącznie resztki roślinne (wyjątkiem są skorupki od jajek)\n\n"
+        "wyrzucaj odpady BIO luzem, ewentualnie w torebkach z papieru pakowego, gazet, papieru lub folii.\n\n"
+        "segreguj tylko czysty papier, brudny trafia do ZMIESZANYCH\n\n"
+
+    </string>
+    <string name="title_activity_zasady">Zasady sortowania</string>
+    <string name="action_settings">Settings</string>
+</resources>
